@@ -19,3 +19,8 @@
 <p>Setelah itu masukkan file hex yang sudah kita unduh tadi ke sensor rainnya</p>
 <p>Masukkan juga script dari arduino yang sudah kita buat tadi</p>
 <p>Coba kita running</p>
+
+
+#UAS IOT
+<p>Penjelasan dari tugas yang saya buat ini</p>
+<p>disini saya menggunakan arduino secara fisik dengan sensor suhu. Pada sensor ini menggunakan source code arduino dan php untuk web.library yang saya gunakan seperti di file arduino tersebut</p>
