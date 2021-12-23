@@ -19,3 +19,7 @@
 <p>Setelah itu masukkan file hex yang sudah kita unduh tadi ke sensor rainnya</p>
 <p>Masukkan juga script dari arduino yang sudah kita buat tadi</p>
 <p>Coba kita running</p>
+
+#UAS IOT
+<p>Penjelasan : </p>
+<p>Pada tugas kali ini menggunakan sensor suhu yang hasilnya bisa di tampilkan ke webserver. Dengan sensor LM35 tetapi disini saya menggunakan arduino secara langsung tanpa menggunakan proteus bisa menghasilkan sebuah nilai dari sensor suhu itu sendiri.</p>
